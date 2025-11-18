@@ -1,0 +1,4 @@
+如没有安装过ch340驱动请先安装CH340驱动
+
+已经编译好的bin文件(build文件夹下）烧录：
+使用文件夹内的ESPHome-Flasher加载固件bin（固件\最新固件22-5-6\ESP8266\.pio\build\esp12e\firmware.bin）文件选择好COM口点击烧录ESP等待完成即可
