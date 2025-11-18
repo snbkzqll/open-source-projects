@@ -178,6 +178,11 @@ IO0与GND短接进入下载模式
 
 
 
-
 加热板、电阻、风扇的线均可穿过隔热板的开孔接入主控板
+V1.4原理图
+<img width="1169" height="828" alt="1440abb8f989434794306e445f2a3ba7" src="https://github.com/user-attachments/assets/aaaf09c6-34a3-4790-8549-428536ef04a5" />
+
+V2.0原理图
+
+<img width="1598" height="954" alt="1f66702c7edb4dbf851c4e8bf96efed9" src="https://github.com/user-attachments/assets/cd597b22-ffc7-4dec-8e9c-1aea41640167" />
 
