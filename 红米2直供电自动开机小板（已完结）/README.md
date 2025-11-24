@@ -18,8 +18,9 @@
 
 使用BTB排线座子
 将手机后壳取下，从底部副板中取出排线，将排线扣接在HUB上。
+
 <img width="362" height="322" alt="W6b2am8ESxUPhJ6nvjLnsdYkt6LVbEkM4NaFBx0i" src="https://github.com/user-attachments/assets/93a7f5df-1dd1-4a8b-83f8-9f8b03f6d5c8" />
-![Nhmk8deQBCwPfOqhLb9IUkVmuN1LgUssjts3Dvcg](https://github.com/user-attachments/assets/e7fce629-f7b5-4bbe-b70b-7392056fb5b2)
+
 <img width="441" height="370" alt="UR8C5kH8zJ4LtWdXPkZIIk07xr7J88t8bGhskoOn" src="https://github.com/user-attachments/assets/53c8719b-ad8a-4336-bca7-84cb857905c1" />
 
 
