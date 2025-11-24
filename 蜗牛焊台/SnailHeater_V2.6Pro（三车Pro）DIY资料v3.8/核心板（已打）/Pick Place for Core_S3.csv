@@ -1,0 +1,104 @@
+Altium Designer Pick and Place Locations,,,,,,,
+D:\Workspace\OpenWorkspace\SnailHeater\Hardware\批量\Pick Place for Core_S3.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       16/10/24,,,,,,,
+Time:       13:49,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mil,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,Center-X(mil),Center-Y(mil),Rotation,Description
+R145,1K,BottomLayer,R_0603,3202,3449.6,180,贴片电阻
+LED2,红色,BottomLayer,LED_0603R,2871.695,3449.859,180,贴片LED
+SW4,3*4*2,BottomLayer,TSW_3*4-S-W,3463.435,3347.613,270,3x4轻触开关
+L3,2nH/300ma,BottomLayer,L_0402_L,3968.998,3519.598,90,小功率贴片电感
+C72,NC/1.5pF,BottomLayer,C_0402_L,3926.498,3518.598,90,无极性贴片电容
+C68,NC/1.5pF,BottomLayer,C_0402_L,4025.298,3542.302,0,无极性贴片电容
+ANT2,IPEX,BottomLayer,IPEX,4007.566,3648.467,90,IPEX天线座
+C98,0.1uF,BottomLayer,C_0402_L,3298.998,3054.598,90,无极性贴片电容
+C97,0.1uF,BottomLayer,C_0402_L,3226.898,2898.102,0,无极性贴片电容
+U5,74LVC1T45DBVR,BottomLayer,SOT23-6N,3209.6,3018.7,180,双电源总线收发器
+C79,1uF,BottomLayer,C_0603,3695,2372.9,90,无极性贴片电容
+JP28,FPC0.5-12P,BottomLayer,FPC0.5_2H-WS-12P,3420.771,2824.153,180,FPC连接器
+R137,1K,BottomLayer,R_0603,3752.9,2772.9,270,贴片电阻
+C102,0.1uF,BottomLayer,C_0402_L,3688.002,3371.198,180,无极性贴片电容
+C77,NC,BottomLayer,C_0402_L,4089.002,3460.998,180,无极性贴片电容
+C69,1uF,BottomLayer,C_0603,4249,3465.5,270,无极性贴片电容
+R138,200R/5%,BottomLayer,R_0603,4425,3648.3,0,贴片电阻
+R139,200R/5%,BottomLayer,R_0603,4424.4,3586.1,0,贴片电阻
+C71,0.1uF,BottomLayer,C_0402_L,4197.002,3491.002,270,无极性贴片电容
+C74,0.1uF,BottomLayer,C_0402_L,4032.798,3483.015,270,无极性贴片电容
+C73,0.1uF,BottomLayer,C_0402_L,3868.702,3498.998,180,无极性贴片电容
+C75,1uF,BottomLayer,C_0603,4203.8,3258.3,90,无极性贴片电容
+C76,0.1uF,BottomLayer,C_0402_L,3690,3260.998,135,无极性贴片电容
+C78,0.1uF,BottomLayer,C_0402_L,4114.6,3126.398,135,无极性贴片电容
+C91,22pF,BottomLayer,C_0402_L,3761.002,3617,225,无极性贴片电容
+C92,22pF,BottomLayer,C_0402_L,3736.002,3522,225,无极性贴片电容
+D43,LESD5Z5.0,BottomLayer,SOD-523,3453.7,2370.5,90,ESD静电保护
+D44,LESD5Z5.0,BottomLayer,SOD-523,3506.8,2372,90,ESD静电保护
+L4,2.2nH/500ma,BottomLayer,L_0603_L,4114.003,3508.997,0,小功率贴片电感
+X1,40M,BottomLayer,OSC_3225-4P,3641.1,3580.4,315,4脚无源晶振
+R132,10K,BottomLayer,R_0603,4265.3,3258.1,270,贴片电阻
+S3R8,ESP32S3R8,BottomLayer,WIFIM_ESP32-S3-QFN,3934.003,3264,225,主控芯片 带FN、FH均不能用
+D45,LESD5Z5.0,BottomLayer,SOD-523,3556.7,2372.2,90,ESD静电保护
+D42,LESD5Z5.0,BottomLayer,SOD-523,3697.4,2767.6,270,ESD静电保护
+D38,1N4148,BottomLayer,SOD-323,4731,3136,90,高速开关二极管
+D40,1N4148,BottomLayer,SOD-323,4664,3135,90,高速开关二极管
+D39,1N4148,BottomLayer,SOD-323,4799,3135,270,高速开关二极管
+D41,1N4148,BottomLayer,SOD-323,4595,3135,270,高速开关二极管
+C95,NC,BottomLayer,C_0402_L,4136.702,3429.4,225,无极性贴片电容
+C96,NC,BottomLayer,C_0402_L,4166.202,3399.6,225,无极性贴片电容
+C99,NC,BottomLayer,C_0402_L,4195.802,3370,225,无极性贴片电容
+R122,200R/5%,BottomLayer,R_0603,4694,2798,180,贴片电阻
+R124,NC,BottomLayer,R_0603,4694,2736,0,贴片电阻
+C70,0.1uF,BottomLayer,C_0402_L,4537.098,3224.298,90,无极性贴片电容
+C82,0.1uF,BottomLayer,C_0402_L,3839.602,2843.2,225,无极性贴片电容
+C84,0.1uF,BottomLayer,C_0402_L,4189.002,2996.902,270,无极性贴片电容
+C80,1uF,BottomLayer,C_0603,3921,2373.5,270,无极性贴片电容
+C81,10uF/10V,BottomLayer,C_0603,4056,2372.5,90,无极性贴片电容
+C83,0.1uF,BottomLayer,C_0402_L,4105.998,2373.998,90,无极性贴片电容
+C86,0.1uF,BottomLayer,C_0402_L,4232.002,2996.902,270,无极性贴片电容
+C94,0.1uF,BottomLayer,C_0402_L,4275.002,2996.902,270,无极性贴片电容
+C88,1uF,BottomLayer,C_0603,4340,2366.5,270,无极性贴片电容
+C100,0.1uF,BottomLayer,C_0402_L,3687.002,3328.998,180,无极性贴片电容
+C101,0.1uF,BottomLayer,C_0402_L,3687.802,3413.098,180,无极性贴片电容
+C85,1uF,BottomLayer,C_0402_L,2814.902,3269.198,180,无极性贴片电容
+C89,1uF,BottomLayer,C_0402_L,3168.002,3268.998,180,无极性贴片电容
+C90,1uF,BottomLayer,C_0402_L,2915.002,3335.998,180,无极性贴片电容
+C93,1uF,BottomLayer,C_0402_L,3168.002,3310.998,180,无极性贴片电容
+IC18,GS8632,BottomLayer,SOP8_N,4406.5,3228.4,90,轨到轨双路运放
+IC19,W25Q256JVEIQ（WSON）,BottomLayer,SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL,3699.863,3054.685,315,133MHz高速Flash
+IC20,ADS1115,BottomLayer,VSSOP-10_L3.0-W3.0-P0.50-LS5.0-BL,2980.781,3249.665,0,16位ADC芯片
+JP29,FPC0.5-12P,BottomLayer,FPC0.5_2H-WS-12P,4161,2824.153,180,FPC连接器
+JP30,XH2.54-LS-2P,BottomLayer,XH2.54-LS-2P,2942.595,2662,270,2P接插件
+JP31,直插1.27mm 2x4P,TopLayer,HDR1.27-LI-2x4P,4652.953,2368.972,0,4*2P接插件
+JP32,直插1.27mm 2x4P,TopLayer,HDR1.27-LI-2x4P,4652.959,3629.979,180,4*2P接插件
+JP33,直插1.27mm 2x4P,TopLayer,HDR1.27-LI-2x4P,3214.954,2368.982,180,4*2P接插件
+LB7,600R@100MHz,BottomLayer,FB_0805_L,4602.997,2867.403,0,磁珠
+LB8,600R@100MHz,BottomLayer,FB_0805_L,3620.997,2374.997,90,磁珠
+LB9,600R@100MHz,BottomLayer,FB_0805_L,3987.997,2371.997,90,磁珠
+Q11,SI2308,BottomLayer,SOT23-3L,4630.354,2635,270,N沟道场效应管
+R95,10R/5%,BottomLayer,R_0603,4526,2633,270,贴片电阻
+R121,2K,BottomLayer,R_0603,4447.2,2332.3,180,贴片电阻
+R125,MF52-NTC-10K-B3950-1%,TopLayer,R-NTC-MF52,4447.492,2449.286,0,直插热敏电阻
+R126,0R,BottomLayer,R_0603,4311.2,3452.7,270,贴片电阻
+R127,10K,BottomLayer,R_0603,4735,2635,90,贴片电阻
+R128,100K/0.1%,BottomLayer,R_0603,4800,3297,90,贴片电阻
+R129,10K,BottomLayer,R_0603,4732,3297,270,贴片电阻
+R130,2K,BottomLayer,R_0603,4498.3,3040.7,0,贴片电阻
+R131,1K/0.1%,BottomLayer,R_0603,4498.4,2976.2,180,贴片电阻
+R133,100K/0.1%,BottomLayer,R_0603,4597,3295,90,贴片电阻
+R134,2K,BottomLayer,R_0603,4415.1,3409.3,0,贴片电阻
+R135,10K,BottomLayer,R_0603,4665,3295,270,贴片电阻
+R136,1K/0.1%,BottomLayer,R_0603,4416.1,3471.3,180,贴片电阻
+R140,5.1K,BottomLayer,R_0603,3203,3155,0,贴片电阻
+R141,5.1K,BottomLayer,R_0603,3203,3216,0,贴片电阻
+R142,1K,BottomLayer,R_0603,2877,3099,270,贴片电阻
+R143,1K,BottomLayer,R_0603,2811,3099,270,贴片电阻
+R144,1K,BottomLayer,R_0603,3202,3364,180,贴片电阻
+U3,RT9013-33,BottomLayer,SOT23-5N,3805,2374,90,LDO稳压3.3V
+U4,RT9013-33,BottomLayer,SOT23-5N,4222,2368,90,LDO稳压3.3V
+C87,1uF,BottomLayer,C_0603,2981.2,3151.3,0,无极性贴片电容

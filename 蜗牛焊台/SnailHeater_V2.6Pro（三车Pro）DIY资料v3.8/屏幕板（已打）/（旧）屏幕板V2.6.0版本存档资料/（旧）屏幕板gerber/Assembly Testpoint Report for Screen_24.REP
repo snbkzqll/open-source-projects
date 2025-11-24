@@ -1,0 +1,9 @@
+Error Report for  - Users\climb\AppData\Local\Temp\Pro433F.tmp
+2023/10/15 0:53:04
+
+Warning arcs were not exported.
+
+Net oscilloscope_0_R with allias 1 too long.
+Net oscilloscope_1_R with allias 2 too long.
+Warning pad shape change for ANT1- from  to rectangular 31.496mil,39.37mil
+Warning pad shape change for ANT1-1 from  to rectangular 31.496mil,39.37mil

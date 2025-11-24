@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Workspace\OpenWorkspace\SnailHeater\Hardware\фад╩╟Е\Screen_24.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=screen_24-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=screen_24-slotholes.txt|DrillLayers=gtl,gbl

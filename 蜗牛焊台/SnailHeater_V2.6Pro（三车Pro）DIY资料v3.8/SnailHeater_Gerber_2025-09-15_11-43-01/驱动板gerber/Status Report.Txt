@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [[No Variations]] of Project [Controller.PrjPcb]
+   Generated File[Assembly Testpoint Report for Driver.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 18:47:30 On 2024/9/17

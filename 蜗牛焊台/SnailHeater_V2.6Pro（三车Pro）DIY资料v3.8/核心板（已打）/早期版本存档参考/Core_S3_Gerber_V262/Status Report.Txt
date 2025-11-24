@@ -1,0 +1,10 @@
+Output: Test Point Report
+Type  : Test Points
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[Assembly Testpoint Report for Core_S3.ipc]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:07:42 On 2024/10/13
