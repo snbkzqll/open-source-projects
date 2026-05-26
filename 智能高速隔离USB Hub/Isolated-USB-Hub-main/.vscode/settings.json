@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "memory_resource": "cpp",
+        "numeric": "cpp",
+        "limits": "cpp",
+        "random": "cpp",
+        "chrono": "cpp",
+        "ratio": "cpp",
+        "cstddef": "cpp"
+    }
+}
