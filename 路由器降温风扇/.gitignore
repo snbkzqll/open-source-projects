@@ -1,0 +1,32 @@
+# macOS metadata
+.DS_Store
+
+# Keil / ARM build outputs
+Project/Objects/
+Project/Listings/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.map
+*.lst
+*.htm
+*.build_log.htm
+*.dep
+*.lnp
+*.sct
+
+# Local IDE/debug settings
+*.uvguix.*
+JLinkSettings.ini
+
+# Temporary files and archives
+tmp/
+cache/
+output/
+results/
+*.log
+*.bak
+*.zip
+*.7z
